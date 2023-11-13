@@ -40,3 +40,5 @@ e. Create and connect url.py and view.py
         Now we will be able to create urls in the app itself
 
 f. Update views to add the required pages.
+
+g. After setting up the app , now we need to restrict access .
